@@ -1,0 +1,26 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>Angular Module Config</Title>
+    <Author>Miguel Roman</Author>
+    <Shortcut>ngconf</Shortcut>
+    <Description>Code snippet for an AngularJS Module Config</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+      <SnippetType>SurroundsWith</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>name</ID>
+        <ToolTip>Function name</ToolTip>
+        <Default>myModule</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="JavaScript"><![CDATA[angular.module('$name$').config($name$Config);
+
+    function $name$Config () {
+    $selected$$end$
+}]]></Code>
+  </Snippet>
+</CodeSnippet>
