@@ -1,5 +1,5 @@
 # vs-snippets
-This repository contains my code snippets for Visual Studio, some of this spippets are:
+This repository contains my code snippets for Visual Studio, some of this snippets are:
 
 ## Javascript: IIFE
 when you write `iife` in a JavaScript File, the snippet writes:
