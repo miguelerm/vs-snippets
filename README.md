@@ -6,7 +6,7 @@ when you write `iife` in a JavaScript File, the snippet writes:
 
 ```js
 (function () {
-    // and put the cursos in this line
+    // and put the cursor in this line
 })();
 ```
 
@@ -21,7 +21,7 @@ when you write `ngctrl` in a JavaScript File, the snippet writes (asking for you
      * Descripción del controlador $name$
      */
     function $name$Controller() {
-        // and put the cursos in this line
+        // and put the cursor in this line
     }
     
 })();
